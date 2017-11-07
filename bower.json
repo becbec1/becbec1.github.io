@@ -2,9 +2,6 @@
   "name": "becbec1.github.io",
   "version": "0.0.0",
   "homepage": "https://github.com/becbec1/becbec1.github.io",
-  "authors": [
-    "Adam Harris <aharris88@gmail.com>"
-  ],
   "license": "MIT",
   "dependencies": {
     "bootstrap": "~3.3.5",
