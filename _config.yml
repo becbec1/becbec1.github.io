@@ -21,7 +21,7 @@ collections:
 prose:
   rooturl: "_posts"
   media: "assets/uploads"
-  siteurl: "http://www.rebeccadianeharris.com"
+  siteurl: "https://www.rebeccadianeharris.com"
   metadata:
     _posts:
       - name: "published"
